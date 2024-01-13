@@ -1,0 +1,6 @@
+INSTALAR OU ATUALIZAR 
+
+pip install pip --upgrade (atualização do pip)
+
+pip install pip setuptools wheel --upgrade
+
